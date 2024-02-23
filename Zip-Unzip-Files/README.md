@@ -1,0 +1,1 @@
+## Replace *source_directory_path* and *target_directory_path/zip_file_name.zip* with your actual source directory path and desired target zip file path respectively.
